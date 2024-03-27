@@ -1,4 +1,4 @@
-module gpphong8th2/test-module-go/cache
+module github.com/gpphong8th2/test-module-go/cache
 
 go 1.20
 
