@@ -1,4 +1,4 @@
-module test-module/cache
+module test-module-go/cache
 
 go 1.20
 
