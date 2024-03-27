@@ -1,3 +1,3 @@
-module test-module-go/utils
+module gpphong8th2/test-module-go/utils
 
 go 1.20
